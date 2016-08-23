@@ -3,7 +3,7 @@
 I wanted to be able to run on my raspberrypi the kickass [Parity](https://ethcore.io/parity.html) but there was no binary available (and compiling was slow and tricky). 
 So, I made my own pipeline to do this so you don't have to :D
 
-Make sure you read how to [sync](https://github.com/ethcore/parity/wiki/Getting-Synced) and you'll have your raspberrypi synced in ~30 minutes.
+Make sure you read how to [sync](https://github.com/ethcore/parity/wiki/Getting-Synced) and you'll have your raspberrypi synced in **~15 minutes**.
 
 I'll try to always patch and compile the latest version so it works for RaspberryPI.
 
