@@ -7,6 +7,6 @@ Make sure you read how to [sync](https://github.com/ethcore/parity/wiki/Getting-
 
 I'll try to always patch and compile the latest version so it works for RaspberryPI.
 
-Get the binary [here](https://dl.dropboxusercontent.com/u/757245/parity)
+Get the binary [here](https://dl.dropboxusercontent.com/u/757245/parity).
 
 Bug me [@jonromero](http://twitter.com/jonromero) to update to the latest binary version. 
