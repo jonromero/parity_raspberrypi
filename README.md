@@ -1,5 +1,6 @@
 **Parity Binary file for RaspberryPI**
 
+<img src='shot.png' />
 I wanted to be able to run on my raspberrypi the kickass [Parity](https://ethcore.io/parity.html) but there was no binary available (and compiling was slow and tricky). 
 So, I made my own pipeline to do this so you don't have to :D
 
